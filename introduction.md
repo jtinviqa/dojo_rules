@@ -1,2 +1,3 @@
 Hello! I am here to teach people about Github.
 My favourite code school path is JavaScript. This is a test.
+My deadly skills are Git and Javascript
